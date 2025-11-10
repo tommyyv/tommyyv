@@ -4,3 +4,6 @@
     email: <code>tvthomas0 [at] proton.me</code> .
   </samp>
 </p>
+
+## Now
+- current pet project: [home](https://github.com/tommyyv/home)
