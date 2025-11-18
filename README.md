@@ -6,4 +6,6 @@
 </p>
 
 ## Now
-- current pet project: [home](https://github.com/tommyyv/home)
+- current pet project:
+  - [home](https://github.com/tommyyv/home.git)
+  - [capy tui](https://github.com/tommyyv/capy_tui.git)
